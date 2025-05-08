@@ -1,0 +1,6 @@
+C:\Users\sara.f.silva.simao\Documents\cliente\ClassLibraryProject\ClassLibraryProject\bin\Debug\ClassLibraryProject.dll
+C:\Users\sara.f.silva.simao\Documents\cliente\ClassLibraryProject\ClassLibraryProject\bin\Debug\ClassLibraryProject.pdb
+C:\Users\sara.f.silva.simao\Documents\cliente\ClassLibraryProject\ClassLibraryProject\obj\Debug\ClassLibraryProject.csproj.AssemblyReference.cache
+C:\Users\sara.f.silva.simao\Documents\cliente\ClassLibraryProject\ClassLibraryProject\obj\Debug\ClassLibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\sara.f.silva.simao\Documents\cliente\ClassLibraryProject\ClassLibraryProject\obj\Debug\ClassLibraryProject.dll
+C:\Users\sara.f.silva.simao\Documents\cliente\ClassLibraryProject\ClassLibraryProject\obj\Debug\ClassLibraryProject.pdb
