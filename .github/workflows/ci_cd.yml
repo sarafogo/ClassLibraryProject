@@ -9,5 +9,4 @@ on:
 jobs:
   use-reusable-workflow:
     uses: Migracao-NET/sara_pipelines_templates/.github/workflows/ci_dotnetfw.yml@main
-    with:
-      dotnet-version: '4.7.2'
+    
