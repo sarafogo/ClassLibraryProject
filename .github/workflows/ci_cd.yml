@@ -8,7 +8,6 @@ on:
 
 jobs:
   use-reusable-workflow:
-    uses: Migracao-NET/sara_pipelines_templates/.github/workflows/ci_dotnetfw.yml@main
+    uses: sarafogo/pipeline_templates/.github/workflows/build.yml@main
     with:
-      org_lower: ${{ github.repository_owner }}
-    secrets: inherit
+      secrets: inherit
