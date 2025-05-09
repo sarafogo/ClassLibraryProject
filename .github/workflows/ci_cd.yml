@@ -10,7 +10,7 @@ on:
         type: boolean
         description: "Habilitar etapa do Sonar"
         required: false
-        default: false
+        default: true
 
 jobs:
   use-reusable-workflow:
