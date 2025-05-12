@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{CC96E122-3F84-4EA0-B799-134FBDA343F1}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03B67400-BB4D-43E2-8727-49F484368E44}|ClassLibraryProject\\ClassLibraryProject.csproj|c:\\users\\sara.f.silva.simao\\documents\\cliente\\classlibraryproject\\classlibraryproject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03B67400-BB4D-43E2-8727-49F484368E44}|ClassLibraryProject\\ClassLibraryProject.csproj|C:\\Users\\sara.f.silva.simao\\Documents\\cliente\\ClassLibraryProject\\classlibraryproject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03B67400-BB4D-43E2-8727-49F484368E44}|ClassLibraryProject\\ClassLibraryProject.csproj|solutionrelative:classlibraryproject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -47,8 +47,11 @@
               "RelativeToolTip": "ClassLibraryProject\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T18:25:11.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T18:25:11.197Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             }
           ]
         }
