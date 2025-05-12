@@ -33,6 +33,7 @@ artifacts/
 ScaffoldingReadMe.txt
 
 # NuGet Packages
+!bin/Release/*.nupkg
 *.nupkg
 # NuGet Symbol Packages
 *.snupkg
