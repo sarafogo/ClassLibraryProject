@@ -33,6 +33,7 @@
   <PropertyGroup>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>ClassLibraryProject</PackageId>
+    <OutputPath>bin\Release\</OutputPath>
     <Version>1.0.0</Version>
     <Authors>YourName</Authors>
     <Company>YourCompany</Company>
