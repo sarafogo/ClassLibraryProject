@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\sara.f.silva.simao\\Documents\\cliente\\ClassLibraryProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B1919556-EF35-4B97-BD8C-CC7AC5AB7BC1}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\sara.f.silva.simao\\documents\\cliente\\classlibraryproject\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1919556-EF35-4B97-BD8C-CC7AC5AB7BC1}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CC96E122-3F84-4EA0-B799-134FBDA343F1}|UnitTestProject\\UnitTestProject.csproj|c:\\users\\sara.f.silva.simao\\documents\\cliente\\classlibraryproject\\unittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC96E122-3F84-4EA0-B799-134FBDA343F1}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sara.f.silva.simao\\Documents\\cliente\\ClassLibraryProject\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\Users\\sara.f.silva.simao\\Documents\\cliente\\ClassLibraryProject\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:06:59.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\sara.f.silva.simao\\Documents\\cliente\\ClassLibraryProject\\UnitTestProject\\UnitTest1.cs",
               "RelativeDocumentMoniker": "UnitTestProject\\UnitTest1.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\sara.f.silva.simao\\Documents\\cliente\\ClassLibraryProject\\ClassLibraryProject\\Class1.cs",
               "RelativeDocumentMoniker": "ClassLibraryProject\\Class1.cs",
