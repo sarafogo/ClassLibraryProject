@@ -1,25 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+<?xml version="1.0"?>
+<package>
   <metadata>
     <id>ClassLibraryProject</id>
     <version>1.0.0</version>
     <authors>sarafogo</authors>
-    <description>A description of your library</description>
-    <packageLicenseExpression>MIT</packageLicenseExpression>
-    <repository type="git" url="https://github.com/yourusername/ClassLibraryProject" />
-    <dependencies>
-      <dependency id="SomeDependency" version="1.0.0" />
-    </dependencies>
-    <!-- Remover o targetFramework aqui -->
+    <owners>sarafogo</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A simple .NET Framework library</description>
+    <tags>dotnet framework library</tags>
   </metadata>
-
   <files>
-    <file src="bin\Release\ClassLibraryProject.dll" target="lib\net472\ClassLibraryProject.dll" />
-    <file src="bin\Release\ClassLibraryProject.pdb" target="lib\net472\ClassLibraryProject.pdb" />
+    <file src="bin\Release\ClassLibraryProject.dll" target="lib\net472" />
   </files>
-
-  <frameworkAssemblies>
-    <frameworkAssembly assemblyName="System" />
-    <frameworkAssembly assemblyName="System.Core" />
-  </frameworkAssemblies>
 </package>
