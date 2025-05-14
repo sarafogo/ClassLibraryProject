@@ -1,13 +1,25 @@
-<?xml version="1.0"?>
-<package>
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>ClassLibraryProject</id>
     <version>1.0.0</version>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Uma biblioteca de exemplo</description>
-    <targetFramework>.NETFramework4.7.2</targetFramework>
+    <authors>sarafogo</authors>
+    <description>A description of your library</description>
+    <packageLicenseExpression>MIT</packageLicenseExpression>
+    <repository type="git" url="https://github.com/yourusername/ClassLibraryProject" />
+    <dependencies>
+      <dependency id="SomeDependency" version="1.0.0" />
+    </dependencies>
+    <!-- Remover o targetFramework aqui -->
   </metadata>
+
   <files>
-    <file src="ClassLibraryProject\bin\Release\ClassLibraryProject.dll" target="lib\net472" />
+    <file src="bin\Release\ClassLibraryProject.dll" target="lib\net472\ClassLibraryProject.dll" />
+    <file src="bin\Release\ClassLibraryProject.pdb" target="lib\net472\ClassLibraryProject.pdb" />
   </files>
+
+  <frameworkAssemblies>
+    <frameworkAssembly assemblyName="System" />
+    <frameworkAssembly assemblyName="System.Core" />
+  </frameworkAssemblies>
 </package>
