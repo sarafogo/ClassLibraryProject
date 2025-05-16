@@ -1,5 +1,4 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ClassLibraryProject;
 
 namespace ClassLibraryProject.Tests
 {
@@ -17,6 +16,13 @@ namespace ClassLibraryProject.Tests
 
             // Assert
             Assert.IsNotNull(class1); // Exemplo de verificação
+        }
+    }
+
+    internal class Class1
+    {
+        public Class1()
+        {
         }
     }
 }
