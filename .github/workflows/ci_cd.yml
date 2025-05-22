@@ -11,7 +11,7 @@ permissions:
 
 jobs:
   use-reusable-workflow:
-    uses: sarafogo/pipeline_templates/.github/workflows/build.yml@main
+    uses: sarafogo/pipeline_templates/.github/workflows/build_nuspec.yml@main
     with:
       enableSonar: 'true'
     secrets: inherit
